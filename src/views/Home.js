@@ -6,7 +6,7 @@ import CardComponent from '../components/card';
 import ModalComponent from '../components/modal';
 
 const API = 'https://api.themoviedb.org';
-const API_KEY = '0ac9906ff8389ea7f71602a33cf77226';
+const API_KEY = 'APIXXXXX';
 
 class Login extends React.Component {
   constructor(props) {
